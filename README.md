@@ -4,7 +4,7 @@ A full-rules chess engine written in modern C++ (C++17), played from the termina
 
 The design is built around a polymorphic `Piece` hierarchy with virtual dispatch, so the board and game logic never branch on piece type. That OOP core is the point of the project; the chess rules are the exercise that drives it.
 
-**Authors:** Dmitriy Kuramshin, Kamal Yalchin, Toghrul Mardiyev, Luis Markus Torres, Farid Veliyev
+**Authors:** [Dmitriy Kuramshin](https://github.com/Krmsh1n5) · [Kamal Yalchin](https://github.com/Camrado) 
 
 ## Build and run
 
